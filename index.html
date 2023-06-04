@@ -1,64 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <!-- displays site properly based on user's device -->
+    <head>
+        <meta charset="UTF-8" />
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <!-- displays site properly based on user's device -->
 
-    <link href="./images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+        <link href="./images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png" />
 
-    <title>Frontend Mentor | Interactive rating component</title>
+        <title>Frontend Mentor | Interactive rating component</title>
 
-    <link rel="stylesheet" href="asset/styles.css">
-    <script defer src="asset/index.js"></script>
-</head>
-<body>
+        <link rel="stylesheet" href="asset/styles.css" />
+        <script defer src="asset/index.js"></script>
+    </head>
+    <body>
+        <!-- Rating state start -->
+        <main>
+            <div class="step first-step">
+                <div class="star">
+                    <img src="images/icon-star.svg" alt="star.svg" />
+                </div>
+                <div class="heading">
+                    <h1>How did we do?</h1>
+                </div>
+                <div class="description">
+                    Please let us know how we did with your support request. All feedback is appreciated to help us
+                    improve our offering!
+                </div>
 
-<!-- Rating state start -->
-<main>
-    <div class="step first-step">
-        <div class="star">
-            <img src="images/icon-star.svg" alt="star.svg">
-        </div>
-        <div class="heading">
-            <h1>How did we do?</h1>
-        </div>
-        <div class="description">
-            Please let us know how we did with your support request. All feedback is appreciated
-            to help us improve our offering!
-        </div>
-
-        <form action="#" class="rating-form">
-            <div class="ratings">
-                <div class="rating"><span>1</span></div>
-                <div class="rating"><span>2</span></div>
-                <div class="rating"><span>3</span></div>
-                <div class="rating"><span>4</span></div>
-                <div class="rating"><span>5</span></div>
+                <form action="#" class="rating-form">
+                    <div class="ratings">
+                        <div class="rating"><span>1</span></div>
+                        <div class="rating"><span>2</span></div>
+                        <div class="rating"><span>3</span></div>
+                        <div class="rating"><span>4</span></div>
+                        <div class="rating"><span>5</span></div>
+                    </div>
+                    <button type="submit">Submit</button>
+                </form>
             </div>
-            <button type="submit">Submit</button>
-        </form>
-    </div>
-    <div class="step second-step hidden">
-        <div class="image">
-            <img src="images/illustration-thank-you.svg" alt="thank-you.svg">
-        </div>
-        <div class="result">
-            You selected <span id="chosen-rating">4</span> out of 5
-        </div>
-        <div class="heading">
-            <h1>Thank you!</h1>
-        </div>
-        <div class="description">
-            We appreciate you taking the time to give a rating. If you ever need more support,
-            don’t hesitate to get in touch!
-        </div>
-    </div>
-</main>
+            <div class="step second-step hidden">
+                <div class="image">
+                    <img src="images/illustration-thank-you.svg" alt="thank-you.svg" />
+                </div>
+                <div class="result">You selected <span id="chosen-rating">4</span> out of 5</div>
+                <div class="heading">
+                    <h1>Thank you!</h1>
+                </div>
+                <div class="description">
+                    We appreciate you taking the time to give a rating. If you ever need more support, don’t hesitate to
+                    get in touch!
+                </div>
+            </div>
+        </main>
 
-<div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-    Coded by <a href="https://github.com/ujjwalgarg100204">Ujjwal Garg</a>
-</div>
-</body>
+        <div class="attribution">
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+            Coded by
+            <a href="https://github.com/ujjwalgarg100204">Ujjwal Garg</a>
+        </div>
+    </body>
 </html>
