@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/ujjwalgarg100204/Frontend-Mentors-todo-solution](https://github.com/ujjwalgarg100204/Frontend-Mentors-todo-solution)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Frontend-Mentors-todo-solution/](https://ujjwalgarg100204.github.io/Frontend-Mentors-todo-solution/)
+-   Solution URL: [https://github.com/ujjwalgarg100204/Frontend-Mentors-Interactive-rating-component-solution](https://github.com/ujjwalgarg100204/Frontend-Mentors-Interactive-rating-component-solution)
+-   Live Site URL: [https://ujjwalgarg100204.github.io/Frontend-Mentors-Interactive-rating-component-solution](https://ujjwalgarg100204.github.io/Frontend-Mentors-Interactive-rating-component-solution)
 
 ## My process
 
