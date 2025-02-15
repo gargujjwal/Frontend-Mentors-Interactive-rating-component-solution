@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/ujjwalgarg100204/Frontend-Mentors-Interactive-rating-component-solution](https://github.com/ujjwalgarg100204/Frontend-Mentors-Interactive-rating-component-solution)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Frontend-Mentors-Interactive-rating-component-solution](https://ujjwalgarg100204.github.io/Frontend-Mentors-Interactive-rating-component-solution)
+-   Solution URL: [https://github.com/gargujjwal/Frontend-Mentors-Interactive-rating-component-solution](https://github.com/gargujjwal/Frontend-Mentors-Interactive-rating-component-solution)
+-   Live Site URL: [https://gargujjwal.github.io/Frontend-Mentors-Interactive-rating-component-solution](https://gargujjwal.github.io/Frontend-Mentors-Interactive-rating-component-solution)
 
 ## My process
 
@@ -55,10 +55,10 @@ Users should be able to:
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Frontend Mentor - [@ujjwalgarg100204](https://www.frontendmentor.io/profile/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
+-   Website - [Ujjwal Garg](https://github.com/gargujjwal)
+-   Frontend Mentor - [@gargujjwal](https://www.frontendmentor.io/profile/gargujjwal)
+-   Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+-   Linkedin - [@gargujjwal](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
 -   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <!-- MARKDOWN LINKS & IMAGES -->
